@@ -40,4 +40,4 @@ Python, Pandas, Matplotlib,Jupyter Notebook, VS Code
 
 Los datos confirman una clara diferenciación por género tanto en volumen como en perfil olfativo.
 Los perfumes unisex se sitúan más cerca del masculino, y Francia domina entre los más valorados,
-aunque no de forma exclusiva.
+aunque no de forma exclusiva. 
